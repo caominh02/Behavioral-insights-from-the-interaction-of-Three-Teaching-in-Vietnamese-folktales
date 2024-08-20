@@ -1,0 +1,13 @@
+link youtube demo
+https://www.youtube.com/watch?v=reqQuTlhIQ0
+
+
+link google drive backup
+https://drive.google.com/drive/folders/1deqXPj7Yvcv53ajJmSXDORMpKRvBlWW5?usp=drive_link
+
+take note:
+
+source code is simulation_example.r 
+data file is legends201.csv
+
+contact me: caoducminh1412@gmail.com
